@@ -1,3 +1,4 @@
 name: Bjorn Jensen, Ph. D.
 	markdown: kramdown
+	paginate: 5
 permalink: /blog/:year/:month/:day/:title
