@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bjorn Jensen, Ph. D., Launches his Personal Website"
-date: 2014-04-30
+date: 2019-07-16
 ---
 
 Hi Everybody, I'm Bjorn. I'd been looking for a fast and easy way to store my scribbles and abouts on the internet.
